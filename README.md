@@ -1,3 +1,26 @@
+## cpr_indoornav_ridgeback (noetic) - 0.4.2-1
+
+The packages in the `cpr_indoornav_ridgeback` repository were released into the `noetic` distro by running `/usr/bin/bloom-release -t noetic -r noetic cpr_indoornav_ridgeback` on `Mon, 27 May 2024 16:08:04 -0000`
+
+The `cpr_indoornav_ridgeback` package was released.
+
+Version of package(s) in repository `cpr_indoornav_ridgeback`:
+
+- upstream repository: https://github.com/clearpathrobotics/cpr-indoornav-ridgeback.git
+- release repository: https://github.com/clearpath-gbp/cpr_indoornav_ridgeback-release.git
+- rosdistro version: `0.4.1-1`
+- old version: `0.4.1-1`
+- new version: `0.4.2-1`
+
+Versions of tools used:
+
+- bloom version: `0.12.0`
+- catkin_pkg version: `1.0.0`
+- rosdep version: `0.24.0`
+- rosdistro version: `0.9.1`
+- vcstools version: `0.1.42`
+
+
 ## cpr_indoornav_ridgeback (noetic) - 0.4.1-1
 
 The packages in the `cpr_indoornav_ridgeback` repository were released into the `noetic` distro by running `/usr/bin/bloom-release -t noetic -r noetic cpr_indoornav_ridgeback` on `Tue, 26 Mar 2024 15:44:03 -0000`
