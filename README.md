@@ -5,7 +5,7 @@ This package contains additional launch files and parameters for using Clearpath
 
 For the full IndoorNav user manual, please refer to https://clearpathrobotics.com/assets/manuals/indoornav/index.html
 
-This package relied on `cpr_indoornav_base`, available here: https://github.com/clearpathrobotics/cpr-indoornav-base
+This package relies on `cpr_indoornav_base`, available here: https://github.com/clearpathrobotics/cpr-indoornav-base
 
 
 Usage
